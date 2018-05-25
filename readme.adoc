@@ -1,0 +1,14 @@
+# How to Pronounce Good
+
+A guide to controversial pronunciation of words / terms in the tech (or tech adjacent) world, and my personal judgement.
+
+[options="header"]
+|===
+| Term | Judgement | evidence | dissent
+| NoSQL |  |  | 
+| N1QL | | | 
+| JSON | | |
+| memcached | | | 
+| cache | | | 
+|===
+

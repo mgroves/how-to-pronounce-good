@@ -4,11 +4,10 @@ A guide to controversial pronunciation of words / terms in the tech (or tech adj
 
 [options="header"]
 |===
-| Term | Judgement | evidence | dissent
+| Term | Judgement | Evidence | Dissent
 | NoSQL |  |  | 
 | N1QL | | | 
 | JSON | | |
 | memcached | | | 
 | cache | | | 
 |===
-

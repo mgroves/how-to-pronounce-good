@@ -5,9 +5,23 @@ A guide to controversial pronunciation of words / terms in the tech (or tech adj
 [options="header"]
 |===
 | Term | Judgement | Evidence | Dissent
-| NoSQL |  |  | 
-| N1QL | | | 
-| JSON | | |
-| memcached | | | 
-| cache | | | 
+| SQL | "sequel" | Originally called SEQUEL | S Q L letters, PostgreSQL
+| NoSQL | "no sequel" | See "SQL" | See "SQL"
+| N1QL | "nickel" | Official Couchbase pronunciation | "nyquil", "none que ell"
+| JSON | jay-son | Less ambiguous than "jason" | "jason" as in the name
+| memcached | mem-cash-dee | d stands for "Daemon" for memcache | mem-cache, or mem-cached
+| cache | cash | correct dictionary pronunciation | "cay-sh" or "ca-shay"
+| PNG | "ping" | shorter to say | "P N G"
+| URL | "you are ell" | Sounds better to me | "earl"
+| GIF | "jiff" | Inventor(s) of GIF say "choosy developers choose GIF" | g stands for "graphics" which has a hard G
+| GUID | "goo id" | ? | "gwid", "gee you eye dee", UUID
+| char | car | looks like it | "char" is short for "character", "char" as in "chargrilled"
+| varchar | var - car | see "char", looks like var | var is short for "variable" so it should be "vair"
+| tuple | tupple | What my professors said | toople
+| ! | bang or not depending on context | Scheme instructor said "bang", but in C#/Java/C/C++ it means "not" | ?
+| # | number sign, pound, sharp, or hash depending on content | multi-purpose symbol, Twitter uses hashtags, number sign is used by normal people, pound is the official name of the symbol, musicians and developers may say "sharp" as in "c sharp" | ?
+| regex | rejj ex | looks like that | "regex" is short for "regular expression" so it should be "regg ex"
+| bin | bin | looks like that | "bin" is short for "binary" so it should be "bine"
+| lib | lib | looks like that | "lib" is short for "library" so it should be "libe"
+| / vs \ | / = forward, \ = backslash | David Neal says so | \ = forward, / = backslash
 |===
